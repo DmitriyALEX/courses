@@ -1,0 +1,57 @@
+
+.card {
+   margin: 0 auto;
+}   
+ 
+.cover_image {
+  margin-right: 0 auto;
+  position: relative;
+
+ } 
+
+ .text {
+  margin: 100px;
+ }
+
+.course_title {
+  color: black;
+  font-size: 30px;
+}
+
+.course_lessonsCount {
+  color: black;
+  font-size: 20px;
+}
+
+
+.course_skills {
+  color: black;
+  font-size: 20px;
+}
+
+
+.course_rating {
+  color: black;
+  font-size: 20px;
+}
+
+.course_rating_title {
+ color: green;
+ margin-right: 20px;
+} 
+
+
+.course_skills_title {
+  color: green;
+  margin-right: 20px;
+}
+
+.course_lessonsCount_title {
+  color: green;
+  margin-right: 20px;
+}
+
+.course_title_title {
+  color: red;
+  margin-right: 20px;
+}
